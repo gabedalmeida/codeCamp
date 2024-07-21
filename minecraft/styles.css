@@ -1,0 +1,16 @@
+#logo {
+    height: 50%;
+    width: 100%;
+    margin: 100px, 5px, 0px, 5px;
+    
+}
+
+.header {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.paragrafer {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
